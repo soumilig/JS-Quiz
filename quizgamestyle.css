@@ -1,0 +1,123 @@
+body
+{
+background-color: goldenrod;
+background-image: url("C:/Users/KIIT/Desktop/QuizGame/istockphoto-1036041790-612x612.jpg");
+object-fit: cover;
+}
+.general
+{
+    font-size:50px;
+    color:crimson;
+    text-shadow: 5px 5px 1px black;
+    font-family:fantasy;
+    margin-left:480px;
+    font-style:italic;
+}
+.head1
+{
+    padding-top:50px;
+    padding-bottom:50px;
+    margin-top:20px;
+    margin-left:12%;
+    font-size:45px;
+    font-family: fantasy;
+    font-style:italic;
+    font-weight:500;
+    
+    
+}
+.head1 span
+{
+    padding-left:20px;
+    padding-right:20px;
+    background-color: white;
+    border: 3px solid black;
+    border-radius:10px;
+}
+.options
+{
+margin-left:35%;
+margin-right:45%;
+margin-top:10px;
+}
+button
+{
+    height:60px;
+    width:300px;
+    font-size:25px;
+    font-family:fantasy;
+    font-style:italic;
+    font-weight:500;
+    background-color: white;
+    border:3px solid #008080;
+   border-top-right-radius:9px;
+   border-radius:9px;
+    text-align:left;
+    border-radius:8px;
+}
+button:hover
+{
+    color:darkgreen;
+    cursor: pointer;
+}
+
+button span
+{
+ padding-left:10px;
+ padding-right:10px;
+ padding-top:12px;
+ padding-bottom:12px;
+ background-color:pink;
+ margin-left:0px;
+ margin-right:20px;
+}
+.item1
+{
+    margin-bottom:20px;
+}
+.item2
+{
+    margin-bottom:20px;
+}
+.item3
+{
+    margin-bottom:20px;
+}
+.item4
+{
+    margin-bottom:20px;
+}
+.sel
+{
+    display:inline;
+    margin-left:950px;
+    
+}
+.sel a
+{
+    color:black;
+    text-decoration: none;
+    margin-left:10%;
+}
+.sel button 
+{
+padding-left:10px;
+padding-right:10px;
+padding-top:10px;
+padding-bottom:10px;
+background-color:beige;
+color:black;
+margin-left:20px;
+font-size:20px;
+width:100px;
+border-radius:5px;
+align-items: center;
+}
+.prev a 
+{
+margin-left:1px;
+}
+.next a 
+{
+    margin-left:15px;
+}
